@@ -26,6 +26,8 @@ h2 {
 #fish {
   background-color:DarkKhaki;
   position: absolute;
+  top:-1px;
+  right:-21px:
 }
 
 p {
