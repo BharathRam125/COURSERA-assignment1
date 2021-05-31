@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  font-family: verdana;
+}
+
+h1 {
+  text-align: center;
+}
+h2 { 
+  border: 1px solid #000000;
+  display: inline-block;
+  padding: 0px 12px 5px 12px;
+}
+
+#chicken {
+  background-color:MediumSeaGreen;
+  position: absolute;
+  right: -1px;
+  top: -21px;
+}
+
+#beef {
+  background-color:Tomato;
+  color: #ffffff;
+  position: absolute;
+  right: -1px;
+  top: -21px;
+}
+
+#fish {
+  background-color:DarkKhaki;
+  position: absolute;
+  right: -1px;
+  top: -21px;
+}
+
+p {
+  padding-top: 25px;
+}
+
+.section {
+  background-color:gray;
+  border: 1px solid #000000;
+  float: left;
+  margin: 1%;
+  padding: 0px 12px 12px 12px;
+  position: relative;
+  width: 30%;
+}
