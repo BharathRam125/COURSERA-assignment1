@@ -15,23 +15,23 @@ h2 {
 #chicken {
   background-color:MediumSeaGreen;
   position: absolute;
-  right: -1px;
-  top: -21px;
+ // right: -1px;
+  //top: -21px;
 }
 
 #beef {
   background-color:Tomato;
   color: #ffffff;
   position: absolute;
-  right: -1px;
-  top: -21px;
+  //right: -1px;
+  //top: -21px;
 }
 
 #fish {
   background-color:DarkKhaki;
   position: absolute;
-  right: -1px;
-  top: -21px;
+ // right: -1px;
+ // top: -21px;
 }
 
 p {
@@ -46,5 +46,4 @@ p {
   padding: 0px 12px 12px 12px;
   position: relative;
   width: 30%;
-  left: 30px;
 }
