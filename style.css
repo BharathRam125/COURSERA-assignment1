@@ -63,11 +63,8 @@ p {
   box-sizing: border-box;
   background-color:gray;
   border: 2px solid black;
-  
-  margin:2%;
   padding: 0px 15px 15px 15px;
-  position: relative;
-  left: 20px;  
+  position: relative;  
   width:85%;
  }
 }
