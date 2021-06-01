@@ -38,9 +38,8 @@ p {
   background-color:gray;
   border: 2px solid black;
   float: left;
-  margin:15px;
+  margin:1%;
   padding: 15px 15px 15px 15px;
   position: relative;
-  left:15px;
   width: 30%;
 }
