@@ -50,7 +50,7 @@ p {
 
 @media  (min-width: 768px) and (max-width: 991px)
 {
-.section1, .section2 {
+.section1 {
   box-sizing: border-box;
   background-color:gray;
   border: 2px solid black;
@@ -60,6 +60,16 @@ p {
   position: relative; 
   width:40%;
  }
+  .section2 {
+  box-sizing: border-box;
+  background-color:gray;
+  border: 2px solid black;
+  float:left;
+  margin:1%;
+  padding: 0px 15px 15px 15px;
+  position: relative; 
+  width:40%;
+  }
   .section3 {
   box-sizing: border-box;
   background-color:gray;
@@ -67,7 +77,8 @@ p {
   float:left;  
   margin:1%;  
   padding: 0px 15px 15px 15px;
-  position: relative; 
+  position: relative;
+  width:82%;
  }
 }
 
