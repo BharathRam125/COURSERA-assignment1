@@ -39,8 +39,7 @@ p {
   box-sizing: border-box;
   background-color:gray;
   border: 2px solid black;
-  float: left;
-  margin: 1%;
+  float: left;  
   padding: 0px 15px 15px 15px;
   position: relative;
   left: 17px;
@@ -55,7 +54,6 @@ p {
   background-color:gray;
   border: 2px solid black;
   float: left;
-  margin: 1%;
   padding: 0px 15px 15px 15px;
   position: relative; 
   width: 50%;
@@ -75,7 +73,6 @@ p {
   background-color:gray;
   border: 2px solid black;
   float: left;  
-  margin: 1%;  
   padding: 0px 15px 15px 15px;
   position: relative;
   
