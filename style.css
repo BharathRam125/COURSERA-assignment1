@@ -43,7 +43,7 @@ p {
   margin:1%;
   padding: 0px 15px 15px 15px;
   position: relative;
-  width: 30%;
+  width: 31%;
 }
 }
 
@@ -64,11 +64,11 @@ p {
   background-color:gray;
   border: 2px solid black;
   float:left;  
-  margin:5%;  
+  margin:2%;  
   padding: 0px 15px 15px 15px;
   position: relative;   
   height:30%;    
-  width:90%;
+  width:95%;
   
  }
 }
