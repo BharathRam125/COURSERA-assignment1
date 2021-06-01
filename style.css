@@ -60,6 +60,7 @@ p {
   position: relative; 
   width: 48%;
  }
+  
   .section2 {
   box-sizing: border-box;
   background-color:gray;
@@ -70,6 +71,7 @@ p {
   position: relative;  
   width: 48%;
   }
+  
   .section3 {
   box-sizing: border-box;
   background-color:gray;
