@@ -1,15 +1,10 @@
-* {
-  box-sizing: border-box;
-  font-family: verdana;
-}
-
 h1 {
   text-align: center;
 }
 h2 { 
-  border: 1px solid #000000;
+  border: 1px solid black;
   display: inline-block;
-  padding: 0px 12px 5px 12px;
+  padding: 5px 10px 5px 10px;
 }
 
 #chicken {
@@ -35,12 +30,13 @@ h2 {
 }
 
 p {
-  padding-top: 25px;
+  padding-top: 30px;
 }
 
 .section {
+  box-sizing: border-box;
   background-color:gray;
-  border: 2px solid #000000;
+  border: 2px solid black;
   float: left;
   margin:1%;
   padding: 15px 15px 15px 15px;
