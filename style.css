@@ -40,7 +40,7 @@ p {
   background-color:gray;
   border: 2px solid black;
   float: left;  
-  margin: 1%;
+  margin:1%;
   padding: 0px 15px 15px 15px;
   position: relative;
   left: 17px;
@@ -55,7 +55,7 @@ p {
   background-color:gray;
   border: 2px solid black;
   float: left;
-  margin: 1%;
+  margin:1%;
   padding: 0px 15px 15px 15px;
   position: relative; 
   width: 48%;
@@ -65,7 +65,7 @@ p {
   background-color:gray;
   border: 2px solid black;
   float: right;
-  margin: 1%;  
+  margin:1%;  
   padding: 0px 15px 15px 15px;
   position: relative;  
   width: 48%;
