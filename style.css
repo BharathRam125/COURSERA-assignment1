@@ -39,6 +39,7 @@ p {
   box-sizing: border-box;
   background-color:gray;
   border: 2px solid black;
+  float:left;
   margin:1%;
   padding: 0px 15px 15px 15px;
   position: relative;
@@ -53,22 +54,12 @@ p {
   box-sizing: border-box;
   background-color:gray;
   border: 2px solid black;
+  float :left;
   margin:2%;
   padding: 0px 15px 15px 15px;
   position: relative;
-  left: 20px;
-  width:40%;
-}
-  .section2{
-  box-sizing: border-box;
-  background-color:gray;
-  border: 2px solid black;
-  margin:2%;
-  padding: 0px 15px 15px 15px;
-  position: relative;
-  left: 20px;
-  width:85%;
-}
+  width:45%;
+ }
 }
 @media  (min-width: 100px) and (max-width: 767px)
 {
@@ -76,9 +67,10 @@ p {
   box-sizing: border-box;
   background-color:gray;
   border: 2px solid black;
+  margin:2%;
   padding: 0px 15px 15px 15px;
   position: relative;
-  left : 20px;
+  left : 25px;
   width: 85%;
 }
 }
